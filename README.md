@@ -20,7 +20,7 @@ Lastly the data includes years, which we decided to focus on data from 2009 - 20
 
 For the data extraction phase, we took data from the 4 disparate sources and converted them to csv files.  In Jupyter Notebook, the data was imported by using the csv module which can read csv data.  The file paths were saved and the module can import data by connecting through the file path locations.  We developed the design of our database using quickdatabasediagrams.com.  On this website, you can name tables and columns and assign data types for your database.  Each table has a primary key and we linked the tables together using primary and foreign keys.  After the schema was designed, we exported the file and uploaded it into PGAdmin to create the structure of the database.  
 
-![QuickDBD-export(1).png](Output/QuickDBD-export(1).png) 
+![QuickDBD-export.png](Output/QuickDBD-export(1).png) 
 
 ## **TRANSFORM**
 
