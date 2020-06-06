@@ -33,10 +33,10 @@ To execute the load phase, a connection was created between the Jupyter Notebook
 
 ## **SOURCES**
 
-* [“Changes in Basic Minimum Wages in Non-Farm Employment Under State Law: Selected Years 1968 to 2019.” U.S. Department of Labor]( www.dol.gov/agencies/whd/state/minimum-wage/history)
+* [“Changes in Basic Minimum Wages in Non-Farm Employment Under State Law: Selected Years 1968 to 2019.” U.S. Department of Labor]( https://www.dol.gov/agencies/whd/state/minimum-wage/history)
 
-* [“List of U.S. States and Territories by Income.” Wikipedia, Wikipedia Foundation, 29 Mar. 2020](en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income)
+* [“List of U.S. States and Territories by Income.” Wikipedia, Wikipedia Foundation, 29 Mar. 2020](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_income)
 
-* [“National Occupational Employment and Wage Estimates 2014 – 2018.” U.S. Bureau of Labor Statistics, U.S. Bureau of Labor Statistics, 2 Apr. 2019](www.bls.gov/oes/2018/mayo/oes_nat.html)
+* [“National Occupational Employment and Wage Estimates 2014 – 2018.” U.S. Bureau of Labor Statistics, U.S. Bureau of Labor Statistics, 2 Apr. 2019](https://www.bls.gov/oes/2018/may/oes_nat.html)
 
-* [“NVSS – United States Small-Area Life Expectancy Estimates Project.” U.S. Small-Area Life Expectancy Estimates Project (USALEEP), Centers for Disease Control and Prevention, 6 Mar. 2020](www.cdc.gov/nchs/nvss/usaleep/usaleep.html)
+* [“NVSS – United States Small-Area Life Expectancy Estimates Project.” U.S. Small-Area Life Expectancy Estimates Project (USALEEP), Centers for Disease Control and Prevention, 6 Mar. 2020](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html)
